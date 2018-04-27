@@ -3,7 +3,7 @@ ASSUMPTIONS
 -------------
 - When a Plateau is created, the bottom right co-ordinates are always (0, 0)
 - The square directly North from (x, y) is (x, y + 1)
-- The test input and output is always the same, so this doesn't need to be validated
+- The test input and output is always taken from the input.txt, and it is as per convention, so this doesn't need to be validated
 
 
 EXECUTION
